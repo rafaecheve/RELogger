@@ -3,7 +3,7 @@ ORLogger
 
 A Logger Decorated
 
-shows: function name, file location and line numer!
+shows: function name, file location and line number!
 
 more comming
 
